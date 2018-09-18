@@ -9,7 +9,7 @@ class D
 		{
 			if(j==1||j==2|| (i==1||i==9)&&j<=10)
 			{
-				System.out.print("*");
+				System.out.print(".");
 			}
 		}
 	
